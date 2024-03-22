@@ -1,0 +1,27 @@
+admin: loged in at 10/03/2024 15:24:56.
+admin: add new employee whose id = D012 at 10/03/2024 15:25:06.
+admin: add new employee whose id = T012 at 10/03/2024 15:25:11.
+admin: view employee list at 10/03/2024 15:25:13.
+admin: update an employee whose id = D011 at 10/03/2024 15:25:29.
+admin: view employee list at 10/03/2024 15:25:33.
+admin: update an employee whose id = T012 at 10/03/2024 15:26:29.
+admin: search employee at 10/03/2024 15:26:39.
+admin: view calculate salary at 10/03/2024 15:26:44.
+admin: sort employee list at 10/03/2024 15:26:54.
+admin: export employee list to CSV at 10/03/2024 15:26:59.
+admin: view account list at 10/03/2024 15:27:01.
+admin: loged out at 10/03/2024 15:27:03.
+user1: loged in at 10/03/2024 15:27:08.
+user1: view employee list at 10/03/2024 15:27:11.
+user1: loged out at 10/03/2024 15:27:17.
+admin: loged in at 10/03/2024 15:28:08.
+admin: view employee list at 10/03/2024 15:28:10.
+admin: delete an employee whose id = D011 at 10/03/2024 15:28:15.
+admin: view employee list at 10/03/2024 15:28:19.
+admin: delete an employee whose id = D012 at 10/03/2024 15:28:22.
+admin: view employee list at 10/03/2024 15:28:24.
+admin: delete an employee whose id = T011 at 10/03/2024 15:28:26.
+admin: view employee list at 10/03/2024 15:28:27.
+admin: delete an employee whose id = T012 at 10/03/2024 15:28:28.
+admin: export employee list to CSV at 10/03/2024 15:28:32.
+admin: loged out at 10/03/2024 15:28:34.

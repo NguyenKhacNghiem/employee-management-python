@@ -1,0 +1,21 @@
+ID, Name, Address, Base Salary, Age, Gender, Exp Year, Primary Language/ Type
+D001, Nguyen Van A, Ho Chi Minh city, 7000000, 20, Male, 1, Java
+D002, Nguyen Van C, Lao Cai, 2000000, 16, Male, 5, C#
+D003, Nguyen Van E, Kien Giang, 5000000, 21, Male, 3, PHP
+D004, Nguyen Van G, An Giang, 2000000, 25, Male, 9, C
+D005, Nguyen Van I, Ca Mau, 5000000, 19, Male, 5, C++
+D006, Nguyen Thi K, Hau Giang, 9000000, 22, Female, 2, Javascript
+D007, Nguyen Thi M, Soc Trang, 7000000, 16, Female, 0, Python
+D008, Nguyen Thi O, Lam Dong, 2000000, 24, Female, 3, Go
+D009, Nguyen Thi Q, Vinh Long, 3000000, 28, Female, 2, Ruby
+D010, Nguyen Thi S, Tra Vinh, 5000000, 21, Female, 4, Rust
+T001, Nguyen Van B, Ha Noi, 5000000, 15, Male, 2, Manual
+T002, Nguyen Van D, Yen Bai, 3000000, 18, Male, 2, Automation
+T003, Nguyen Van F, Tien Giang, 3000000, 22, Male, 2, Manual
+T004, Nguyen Van H, Ben Tre, 1000000, 23, Male, 8, Automation
+T005, Nguyen Van J, Can Tho, 6000000, 19, Male, 4, Manual
+T006, Nguyen Thi L, Dien Bien, 8000000, 20, Female, 1, Automation
+T007, Nguyen Thi N, Gia Lai, 1000000, 23, Female, 9, Manual
+T008, Nguyen Thi P, Da Lat, 8000000, 29, Female, 1, Automation
+T009, Nguyen Thi R, Bac Lieu, 4000000, 22, Female, 6, Manual
+T010, Nguyen Thi T, Long An, 2000000, 20, Female, 2, Automation
